@@ -8,4 +8,8 @@ From which country how many percentages of customers purchasing the products
 
 ![image](https://user-images.githubusercontent.com/75080175/156121639-f4c17c24-9c8d-4363-b4da-9c58d38a550a.png)
 
+![image](https://user-images.githubusercontent.com/75080175/156122607-305f24d5-9210-421e-ab68-110fe133489a.png)
+
+
+
  
