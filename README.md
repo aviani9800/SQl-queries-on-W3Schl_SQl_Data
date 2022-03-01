@@ -13,5 +13,12 @@ Most of the Customers are from the USA  !!
 ![image](https://user-images.githubusercontent.com/75080175/156122808-80e74ae6-f77e-4a01-a39e-408f1263539a.png)
 
 
+Analysis On Quantity Ordered.
+
+From this Chat we observed that maximum numbers of customers ordrers quantitity between (9-17).
+
+![image](https://user-images.githubusercontent.com/75080175/156127684-cb30b088-4ff7-44fd-931c-46c9349f21cc.png)
+
+
 
  
